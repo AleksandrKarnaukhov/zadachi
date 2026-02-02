@@ -1,4 +1,4 @@
-print('Создание кортежа в Python')
+wesgbSEDRGSEGSEGVsegprint('Создание кортежа в Python')
 tst = (12, 34, 45)
 print(type(tst)) #кортеж
 
